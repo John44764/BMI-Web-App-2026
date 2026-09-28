@@ -44,18 +44,6 @@
   color-scheme: light;
 }
 
-:root[data-theme="party"] {
-  color-scheme: dark;
-
-  --color-bg: #1a0b2e;
-  --color-surface: #2a1250;
-  --color-text: #ffe9ff;
-  --color-muted: #c79bff;
-  --color-border: #7b2ff7;
-  --color-hover: #3a1a6b;
-  --color-danger: #ff7ab8;
-  --color-success: #7dffd4;
-}
 
 * {
   box-sizing: border-box;

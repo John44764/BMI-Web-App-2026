@@ -12,7 +12,7 @@ const DEFAULT_SETTINGS = {
   theme: "light",
 };
 
-const THEMES = ["light", "dark", "party"];
+const THEMES = ["light", "dark"];
 const GENDERS = ["", "female", "male", "diverse"];
 
 const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
