@@ -146,3 +146,5 @@ vite.config.ts.timestamp-*
 /src/output.css
 
 .idea/
+test-results/
+playwright-report/
